@@ -1,0 +1,6 @@
+{
+  "name": "Lumina — Ultra HD Wallpapers & Mockup Studio",
+  "description": "Curated 8K, 4K, and Retina wallpapers for desktop, mobile, and ultrawide displays with live device mockup simulation and custom resolution export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
